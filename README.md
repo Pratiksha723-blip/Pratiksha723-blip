@@ -4,7 +4,7 @@
 
 ## Skills and Tools
 - **Programming Languages:** Python, R, SQL
-- **Data Visualization:** Tableau, Power BI
+- **Data Visualization:** Tableau, Power BI, Excel
 - **Databases:** MySQL
 
 ## Projects
