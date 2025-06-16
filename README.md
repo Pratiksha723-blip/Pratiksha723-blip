@@ -8,7 +8,14 @@
 - **Databases:** MySQL
 
 ## Projects
-1. 
+1. power-bi-dashboard/
+│
+├── dashboard.pbix
+├── README.md
+├── images/
+│   └── dashboard-screenshot.png
+└── data/
+    └── sample-data.csv
 
 ## Contact
 - **Email:** pratikshasonawane435@gmail.com
